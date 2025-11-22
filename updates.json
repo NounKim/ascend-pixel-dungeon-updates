@@ -1,11 +1,3 @@
 {
-  "releases": [
-    {
-      "name": "",
-      "versionCode": null,
-      "description": "",
-      "url": "",
-      "prerelease": false
-    }
-  ]
+  "releases": []
 }
